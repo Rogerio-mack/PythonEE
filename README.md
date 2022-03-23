@@ -1,2 +1,34 @@
+<img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" width=300, align="right"> 
+
+<br>
+
 # PythonEE
 Projeto Integrador - Introdução ao Python para Análise de Dados em Engenharia de Produção 
+
+Encontros: Quartas-feiras, 17:30h às 18:20h
+Nosso espaço de colaboração no [Slack](https://join.slack.com/t/eepython/shared_invite/zt-1570mu49j-ANFprKUhRwzsIbcZuBdwJg)
+Para eventuais encontros online [Zoom](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09)
+
+[Grupos de trabalho](https://github.com/Rogerio-mack/PythonEE/blob/main/grupos.md)
+
+## 16.03 Apresentação
+
+Nossa programação
+* Python
+* Pandas
+* Time Series
+* Projeto dos Grupos: Previsão de Demandas
+
+* Adicional: Hackathon Itaú-Mackenzie
+
+## 23.03 Python
+
+[Learn Python](https://www.kaggle.com/learn/python)
+
+[Guia Rápido](https://www.w3schools.com/python/default.asp)
+
+[Colab](https://colab.research.google.com/)
+
+
+
+
