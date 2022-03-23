@@ -29,6 +29,13 @@ Nossa programação
 
 [Colab](https://colab.research.google.com/)
 
+<img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" width="100"/>
+
+[Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+<img src="https://pythonnumericalmethods.berkeley.edu/_images/book_cover.jpg" width="100"/>
+
+[Book](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
 
 
