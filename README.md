@@ -9,7 +9,7 @@ Encontros: Quartas-feiras, 17:30h às 18:20h
 Nosso espaço de colaboração no [Slack](https://join.slack.com/t/eepython/shared_invite/zt-1570mu49j-ANFprKUhRwzsIbcZuBdwJg)
 Para eventuais encontros online [Zoom](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09)
 
-[Grupos de trabalho](https://github.com/Rogerio-mack/PythonEE/blob/main/grupos.md)
+[Grupos de trabalho](https://docs.google.com/spreadsheets/d/12gEhs-xrJ9biz_DhK3nJZPt5dKnQl4UKfZRWnrKZt9k/edit?usp=sharing)
 
 ## 16.03 Apresentação
 
@@ -36,6 +36,12 @@ Nossa programação
 <img src="https://pythonnumericalmethods.berkeley.edu/_images/book_cover.jpg" width="100"/>
 
 [Book](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+## 30.03 Encontro
+
+[Código](https://colab.research.google.com/github/Rogerio-mack/PythonEE/blob/main/Encontro_20220330.ipynb)
+
+
 
 
 
